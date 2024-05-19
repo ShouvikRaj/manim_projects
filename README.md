@@ -1,2 +1,2 @@
 # manim_projects
-abstract animations
+abstract animations, very basic imported animation code 
